@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src='../javascript/script.js'></script>
+  <meta charset="utf-8">
+  <title>This is Coco</title>
+
+<body style="background-color:#ffe6ee;">
+  </head>
+  <img src="https://lh3.googleusercontent.com/ogw/ADGmqu_B0QSNcdT9aYtBLcYIMxtAYYKR6K7uQ2mb3mZkCw=s83-c-mo" alt="A Wierd picture of me!">
+
+  <body>
+    <h1>A little about me!</h1>
+    <p>
+      I am 11 years old. I <em>Dream</em> of having an <b>ASMR channel,</b> <b>Gaming channel,</b> and maybe a <b>Vlogging channel</b>
+    </p>
+  </body>
+
+</html>
